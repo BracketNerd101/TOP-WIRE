@@ -1,16 +1,32 @@
-.banner_hero_padding{
+body {
+  min-height: 1000px;
+}
+
+.banner_hero_padding {
 
   padding-bottom: 5rem;
 }
 
 .section_spacing {
 
-  margin-top: 4rem;
-  margin-bottom: 4rem;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
 }
 
 .small_container_margin {
 
-  padding-top: 9rem;
+  padding-top: 5rem;
 
+}
+.header_padding_helper {
+
+  margin-bottom: 3rem;
+}
+
+.product_img_style {
+
+  background-image: url(../img/fluid_logo.svg);
+  background-size: cover;
+  height: 15rem;
+  width: auto;
 }
