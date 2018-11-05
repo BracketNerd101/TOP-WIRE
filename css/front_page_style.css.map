@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,oBAAoB;EAElB,aAAa,EAAE,IAAI;;AAGrB,gBAAiB;EAEf,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;;AAGrB,uBAAwB;EAEtB,WAAW,EAAE,IAAI",
+"mappings": "AAAA,oBAAoB;EAElB,cAAc,EAAE,IAAI;;AAGtB,gBAAiB;EAEf,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;;AAGrB,uBAAwB;EAEtB,WAAW,EAAE,IAAI",
 "sources": ["../scss/front_page_style.scss"],
 "names": [],
 "file": "front_page_style.css"
