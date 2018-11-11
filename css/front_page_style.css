@@ -1,8 +1,13 @@
 body {
-  min-height: 1000px; }
+  min-height: 1000px;
+  font-family: 'Open Sans', sans-serif; }
 
 .banner_hero_padding {
-  padding-bottom: 5rem; }
+  padding-bottom: 5rem;
+  padding-top: 9rem; }
+
+.hero_style_text {
+  font-family: 'Open Sans', sans-serif; }
 
 .section_spacing {
   margin-top: 8rem;
@@ -13,11 +18,5 @@ body {
 
 .header_padding_helper {
   margin-bottom: 3rem; }
-
-.product_img_style {
-  background-image: url(../img/fluid_logo.svg);
-  background-size: cover;
-  height: 8rem;
-  width: auto; }
 
 /*# sourceMappingURL=front_page_style.css.map */
